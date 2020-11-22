@@ -55,6 +55,11 @@ Riders are mostly born about 1990, except for one very large peak in 1969!
 ![figure10](https://github.com/JaniceBgithub/Tableau_14/blob/main/Resources/Picture10.png)
 Ride
 
-Heavy concentration of station use in Southern Manhatten
+Heavy concentration of station use in Southern Manhattan
+
+###  Median Age by Station 
+![figure11](https://github.com/JaniceBgithub/Tableau_14/blob/main/Resources/Picture11.png)
+
+
 
 
