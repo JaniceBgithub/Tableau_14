@@ -60,6 +60,12 @@ Heavy concentration of station use in Southern Manhattan
 ###  Median Age by Station 
 ![figure11](https://github.com/JaniceBgithub/Tableau_14/blob/main/Resources/Picture11.png)
 
+## Summary
+
+the NYC Citi Bike analysis for August showed bike use peaking in certain high density locations and during weekday rush hour.
+
+Further analysis that could be done is to look at profitability as a function of bike use - ie are there some locations that are not worth having due to very low ridership. More analysis could be done on if increasing the number of bikes in very busy areas would further increase ridership.
+
 
 
 
