@@ -4,6 +4,12 @@
 
 New York Citi Bike data from August 2019 was analyzed in Tableau.
 
+Link to the file on Tableau Public: 
+
+[link to dashboard](https://public.tableau.com/profile/janice8391#!/vizhome/Assignment_14_16065743238780/Story1?publish=yes)
+
+
+
 ## Results
 
 ### Number of trips by Bike ID 
